@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public boolean solve(int n) {
         int length = Integer.toString(n).length();
